@@ -1,3 +1,10 @@
+# My Fwitter Deployment
+
+This is a deployed version of the Fwitter project. I successfully configured the Firebase backend, resolved web compatibility issues, and deployed the application using Firebase Hosting.
+
+*   **Live Demo:** [https://fwitter-clone-f3dfe.web.app](https://fwitter-clone-f3dfe.web.app)
+*   **Original Source Code:** [TheAlphamerc/flutter_twitter_clone](https://github.com/TheAlphamerc/flutter_twitter_clone)
+
 ## Fwitter - Twitter clone in flutter [![GitHub stars](https://img.shields.io/github/stars/Thealphamerc/flutter_twitter_clone?style=social)](https://github.com/login?return_to=%2FTheAlphamerc%flutter_twitter_clone) ![GitHub forks](https://img.shields.io/github/forks/TheAlphamerc/flutter_twitter_clone?style=social) 
 
 A working Twitter clone built in Flutter using Firebase auth,realtime,firestore database and storage.
@@ -239,26 +246,3 @@ If you wish to contribute a change to any of the existing feature or add new in 
 please review our [contribution guide](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/CONTRIBUTING.md),
 and send a [pull request](https://github.com/TheAlphamerc/flutter_twitter_clone/pulls). I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request.
 
-## Created & Maintained By
-
-[Sonu Sharma](https://github.com/TheAlphamerc) ([Twitter](https://www.twitter.com/TheAlphamerc)) ([Youtube](https://www.youtube.com/user/sonusharma045sonu/)) ([Insta](https://www.instagram.com/_sonu_sharma__)) ([Dev.to](https://dev.to/thealphamerc))
-  ![Twitter Follow](https://img.shields.io/twitter/follow/thealphamerc?style=social) 
-
-> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
->
-> * [PayPal](https://paypal.me/TheAlphamerc/)
-
-> You can also nominate me for Github Star developer program
-> https://stars.github.com/nominate
-
-
-## Contributors
-* [TheAlphamerc](https://github.com/TheAlphamerc/TheAlphamerc)
-* [Liel Beigel](https://github.com/lielb100)
-* [Riccardo Montagnin](https://github.com/RiccardoM)
-* [Suriyan](https://github.com/imsuriyan)
-* [Liel Beigel](https://github.com/lielb100)
-* [Rodriguezv](https://github.com/aa-rodriguezv)
-## Visitors Count
-
-<img align="left" src = "https://profile-counter.glitch.me/flutter_twitter_clone/count.svg" alt ="Loading">
